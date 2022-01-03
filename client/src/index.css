@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.post-container,
+.form-container {
+  background-color: white;
+}
+
+.form-container {
+  margin-bottom: 2%;
+}
+
+.post-image {
+  max-width: 100%;
+}
